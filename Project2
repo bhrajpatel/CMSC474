@@ -1,2 +1,25 @@
-int g = 0;
-sdflskndfsdd
+// KMZ_Team: Kaval ? (123456789), Moti Gulman (112188733), Zach Portnoff (123456789)
+
+/*
+ ============================================================================
+ Name        : reversi.c
+ Authors     : Kaval ?, Moti Gulman, Zach Portnoff
+ Description : CMSC474 Project 2 + TODO
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+// Constants
+
+// Data structures
+
+
+int main(void) {
+
+	// prints Hello World!!!
+	puts("Hello World!!!");
+
+	return EXIT_SUCCESS;
+}
