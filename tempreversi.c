@@ -1,10 +1,9 @@
-// KMZ_Team: Kaval ? (123456789), Moti Gulman (112188733), Zach Portnoff (123456789)
+// KMZ_Team: Kaval ? (123456789), Moti ? (123456789), Zach ? (123456789)
 
 /*
  ============================================================================
- Name        : reversi.c
- Authors     : Kaval ?, Moti Gulman, Zach Portnoff
- Description : CMSC474 Project 2 + TODO
+ Name        : tempreversi.c
+ Description : TODO
  ============================================================================
  */
 
