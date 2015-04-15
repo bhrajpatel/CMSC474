@@ -1,4 +1,4 @@
-// KMZ_Team: Kaval ? (123456789), Moti ? (123456789), Zach ? (123456789)
+// KMZ: Kava1 ? (123456789), Mot1 ? (123456789), Z4ch ? (123456789)
 
 /*
  ============================================================================
@@ -14,6 +14,13 @@
  *
  * NOTES
  * -----
+ *
+ * - AVOID DETECTION. Do not use any phrases that can be used to find this on the web. Use leetspeak if necessary.
+ *   When we are done with the project, one of us will need to download the file to his computer and make the required
+ *   changes according to the project description. Then he will submit the file (only one of us has to submit).
+ *   Required changes are: update the first line in this file with our correct details, add a description, change
+ *   the filename, and remove all comments used to collaborate.
+ *
  * - We are working with rectangular 8x14 boards: 8 rows and 14 columns.
  *
  * - To avoid confusion, we will use (i, j) to refer to input/output indexes and (row, col) to refer to the indexes
@@ -84,7 +91,7 @@ int main(void) {
 	// Print move to stdout if legal
 	if (move[0] < 1 || move[0] > 8 || move[1] < 1 || move[1] > 14) {
 
-		printf("Invalid stdout move index!");
+		printf("Attempted to send invalid move index to stdout!");
 		return EXIT_FAILURE;
 	} else {
 
